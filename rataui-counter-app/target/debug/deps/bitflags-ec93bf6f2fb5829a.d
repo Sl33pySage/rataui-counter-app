@@ -1,0 +1,11 @@
+/Users/Anthony/ProgrammingProjects/RustProjects/hello-rataui/rataui-counter-app/target/debug/deps/bitflags-ec93bf6f2fb5829a.d: /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/lib.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/iter.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/parser.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/traits.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/public.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/internal.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/external.rs
+
+/Users/Anthony/ProgrammingProjects/RustProjects/hello-rataui/rataui-counter-app/target/debug/deps/libbitflags-ec93bf6f2fb5829a.rmeta: /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/lib.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/iter.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/parser.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/traits.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/public.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/internal.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/external.rs
+
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/lib.rs:
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/iter.rs:
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/parser.rs:
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/traits.rs:
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/public.rs:
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/internal.rs:
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.12.1/src/external.rs:

@@ -1,0 +1,10 @@
+/Users/Anthony/ProgrammingProjects/RustProjects/hello-rataui/rataui-counter-app/target/debug/deps/ratatui_macros-8c8ac89a5b44a59f.d: /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/lib.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/layout.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/line.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/row.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/span.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/text.rs
+
+/Users/Anthony/ProgrammingProjects/RustProjects/hello-rataui/rataui-counter-app/target/debug/deps/libratatui_macros-8c8ac89a5b44a59f.rmeta: /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/lib.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/layout.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/line.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/row.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/span.rs /Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/text.rs
+
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/lib.rs:
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/layout.rs:
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/line.rs:
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/row.rs:
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/span.rs:
+/Users/Anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.0/src/text.rs:
