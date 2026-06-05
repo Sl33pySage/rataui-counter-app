@@ -1,4 +1,7 @@
+use std::io;
+
 use crossterm::event::{self, Event, KeyCode, KeyEvent, KeyEventKind};
+
 use ratatui::{
     DefaultTerminal, Frame,
     buffer::Buffer,
@@ -8,7 +11,11 @@ use ratatui::{
     text::{Line, Text},
     widgets::{Block, Paragraph, Widget},
 };
-use std::io;
+
+fn main() -> io::Result<()> {
+    ratatui::run(|terminal| App::default().run(terminal))
+}
+
 #[derive(Debug, Default)]
 pub struct App {
     counter: u8,
@@ -24,12 +31,16 @@ impl App {
         }
         Ok(())
     }
+
     fn draw(&self, frame: &mut Frame) {
         frame.render_widget(self, frame.area());
     }
 
+    // updates the application's state based on user input
     fn handle_events(&mut self) -> io::Result<()> {
         match event::read()? {
+            // It's important to check that the event is a key press event as
+            // crossterm also emits key release and repeat events on Windows.
             Event::Key(key_event) if key_event.kind == KeyEventKind::Press => {
                 self.handle_key_event(key_event);
             }
@@ -90,6 +101,7 @@ impl Widget for &App {
 
 #[cfg(test)]
 mod tests {
+
     use super::*;
     use ratatui::style::Style;
 
@@ -131,8 +143,4 @@ mod tests {
         app.handle_key_event(KeyCode::Char('q').into());
         assert!(app.exit);
     }
-}
-
-fn main() -> io::Result<()> {
-    ratatui::run(|terminal| App::default().run(terminal))
 }

@@ -1,0 +1,1 @@
+/Users/Anthony/ProgrammingProjects/RustProjects/hello-rataui/rataui-counter-app/target/debug/rataui-counter-app: /Users/Anthony/ProgrammingProjects/RustProjects/hello-rataui/rataui-counter-app/src/main.rs
