@@ -1,11 +1,12 @@
-/Users/Anthony/ProgrammingProjects/RustProjects/hello-rataui/rataui-counter-app/target/debug/deps/rataui_counter_app-ec7e5393bf5d9d25.d: src/main.rs src/app.rs src/event.rs src/ui.rs src/update.rs Cargo.toml
+/Users/Anthony/ProgrammingProjects/RustProjects/hello-rataui/rataui-counter-app/target/debug/deps/rataui_counter_app-ec7e5393bf5d9d25.d: src/main.rs src/app.rs src/event.rs src/ui.rs src/tui.rs src/update.rs Cargo.toml
 
-/Users/Anthony/ProgrammingProjects/RustProjects/hello-rataui/rataui-counter-app/target/debug/deps/librataui_counter_app-ec7e5393bf5d9d25.rmeta: src/main.rs src/app.rs src/event.rs src/ui.rs src/update.rs Cargo.toml
+/Users/Anthony/ProgrammingProjects/RustProjects/hello-rataui/rataui-counter-app/target/debug/deps/librataui_counter_app-ec7e5393bf5d9d25.rmeta: src/main.rs src/app.rs src/event.rs src/ui.rs src/tui.rs src/update.rs Cargo.toml
 
 src/main.rs:
 src/app.rs:
 src/event.rs:
 src/ui.rs:
+src/tui.rs:
 src/update.rs:
 Cargo.toml:
 
