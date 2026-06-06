@@ -1,10 +1,8 @@
-use std::io;
-
-use crossterm::event::{self, Event, KeyCode, KeyEvent, KeyEventKind};
-
+// use std::io;
 use ratatui::{
     DefaultTerminal, Frame,
     buffer::Buffer,
+    crossterm::event::{self, Event, KeyCode, KeyEvent, KeyEventKind},
     layout::Rect,
     style::Stylize,
     symbols::border,
@@ -16,6 +14,17 @@ use color_eyre::{
     Result,
     eyre::{Ok, WrapErr, bail},
 };
+
+// Application.
+pub mod app;
+// Terminal events handler.
+pub mod event;
+// Widget renderer.
+pub mod ui;
+// Terminal user interface.
+pub mod ui;
+// Application updater.
+pub mod update;
 
 fn main() -> Result<()> {
     color_eyre::install()?;
@@ -75,7 +84,7 @@ impl App {
     fn increment_counter(&mut self) -> Result<()> {
         self.counter += 1;
         if self.counter > 2 {
-            bail!("Counter overflow")
+            bail!("counter overflow")
         }
         Ok(())
     }
